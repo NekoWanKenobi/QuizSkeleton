@@ -1,5 +1,5 @@
 # QuizSkeleton
-C'est mon projet de mini jeu web pour apprendre tout en m'amusant...
+C'est mon projet de mini jeu web pour apprendre tout en m'amusant... Sachant que je viens seulement de commencer le codage et ca me passionne énormément, je suis débutant je prend absolument tout les conseils que je peux prendre. <3
 <!DOCTYPE html>
 <html lang="fr">
    <head>
